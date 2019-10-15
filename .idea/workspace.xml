@@ -2,98 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7142a579-9e9e-4527-8ec7-2dc35059b730" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/external.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/Linearicons-Free.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/Linearicons-Free.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/Linearicons-Free.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/Linearicons-Free.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/library/animate.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/library/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/library/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/library/jquery.mb.YTPlayer.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/library/stroke-gap-icons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/background/bg-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/background/bg-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/favicon/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/landing/demos/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/landing/demos/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/logo/logo-dark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/logo/logo-light.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/mockup/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/mockup/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/mockup/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/testimonials/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/testimonials/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/testimonials/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/testimonials/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/functions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/html5shiv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-2.2.4.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/less.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/plugins.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/plugins/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/plugins/jquery.mb.YTPlayer.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/plugins/owl.carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/respond.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/less/.crunch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/less/base/base.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/less/base/intro.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/less/base/intro.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/less/base/mixins.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/less/base/reset.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/less/base/vars.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/less/layout/alert.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/less/layout/align.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/less/layout/background.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/less/layout/buttons.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/less/layout/color.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/less/layout/cta.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/less/layout/forms.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/less/layout/grid.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/less/layout/typography.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/less/module/action.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/less/module/carousel.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/less/module/feature.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/less/module/footer.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/less/module/header.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/less/module/heading.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/less/module/hero.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/less/module/landing.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/less/module/loading.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/less/module/menu-max1200.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/less/module/menu-max479.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/less/module/menu-max767.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/less/module/menu-max991.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/less/module/menu-min992.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/less/module/menu.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/less/module/pricing.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/less/module/testimonial.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/less/module/video.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/less/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/less/style.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/less/theme/theme-default.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/mix-manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/start.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/layouts/assets/header.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/logo/logo-dark.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/logo/logo-dark.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/logo/logo-light.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/logo/logo-light.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/start.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/start.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -112,10 +26,31 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/start.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="23" column="85" lean-forward="true" selection-start-line="23" selection-start-column="85" selection-end-line="23" selection-end-column="85" />
+            <state relative-caret-position="442">
+              <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
               <folding>
-                <element signature="e#25046#25052#0#HTML" expanded="true" />
+                <element signature="e#6153#6463#0#HTML" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/layouts/assets/header.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+              <folding>
+                <element signature="e#25050#25056#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -153,6 +88,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>.png</find>
+      <find>.jpg</find>
     </findStrings>
     <replaceStrings>
       <replace>.jpg')}}</replace>
@@ -169,9 +105,10 @@
         <option value="$PROJECT_DIR$/.htaccess" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/public/css/app.css" />
-        <option value="$PROJECT_DIR$/resources/views/layouts/app.blade.php" />
         <option value="$PROJECT_DIR$/routes/web.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/assets/header.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/app.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/start.blade.php" />
       </list>
     </option>
@@ -287,29 +224,6 @@
             <path>
               <item name="tekvision" type="b2602c69:ProjectViewProjectNode" />
               <item name="tekvision" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tekvision" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tekvision" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="Http" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tekvision" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tekvision" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="Http" type="462c0819:PsiDirectoryNode" />
-              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tekvision" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tekvision" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tekvision" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tekvision" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -349,6 +263,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -378,27 +293,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571124959783</updated>
-      <workItem from="1571124961569" duration="4032000" />
+      <workItem from="1571124961569" duration="5840000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4032000" />
+    <option name="totallyTimeSpent" value="5840000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17857143" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17857143" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -458,9 +373,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/home.blade.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -468,17 +380,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HomeController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/elements-sware-saas-software-landing-html5-page-template-KJ8LC4-Ewv5nakH-08-23/MAIN_FILES/Sware/landing-click.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="16" selection-end-line="529" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -496,19 +415,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/elements-sware-saas-software-landing-html5-page-template-KJ8LC4-Ewv5nakH-08-23/MAIN_FILES/Sware/landing-click.html">
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/assets/header.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="16" selection-end-line="529" selection-end-column="7" />
+        <state relative-caret-position="374">
+          <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+          <folding>
+            <element signature="e#25050#25056#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/start.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="23" column="85" lean-forward="true" selection-start-line="23" selection-start-column="85" selection-end-line="23" selection-end-column="85" />
+        <state relative-caret-position="442">
+          <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
           <folding>
-            <element signature="e#25046#25052#0#HTML" expanded="true" />
+            <element signature="e#6153#6463#0#HTML" />
           </folding>
         </state>
       </provider>
